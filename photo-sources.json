@@ -1,0 +1,107 @@
+[
+  {
+    "dish": "Kacchi Biryani",
+    "file": "Kacchi Biriyani with boiled egg.jpg",
+    "slug": "kacchi-biryani"
+  },
+  {
+    "dish": "Beef Curry",
+    "file": "Bengali Beef curry.jpg",
+    "slug": "beef-curry"
+  },
+  {
+    "dish": "Doi Chingri",
+    "file": "Doi Chingri Bangladesh.jpg",
+    "slug": "doi-chingri"
+  },
+  {
+    "dish": "Bhoger Khichuri",
+    "file": "Khichuri - Bhog.jpg",
+    "slug": "bhoger-khichuri"
+  },
+  {
+    "dish": "Mughlai Paratha",
+    "file": "Mughlai Paratha.jpg",
+    "slug": "mughlai-paratha"
+  },
+  {
+    "dish": "Panta Ilish",
+    "file": "Pahela Baishakh Panta Ilish.jpg",
+    "slug": "panta-ilish"
+  },
+  {
+    "dish": "Chicken Roast & Polao Platter",
+    "file": "Pilau rice with Shammi Kebab & Chicken roast.jpg",
+    "slug": "chicken-roast-polao"
+  },
+  {
+    "dish": "Tehari",
+    "file": "Tehari (2).jpg",
+    "slug": "tehari"
+  },
+  {
+    "dish": "Mutton Bhuna",
+    "file": "খাসির মাংস ভুনা.jpg",
+    "slug": "mutton-bhuna"
+  },
+  {
+    "dish": "Mutton Biryani",
+    "file": "খাসির মাংসের বিরিয়ানি.jpg",
+    "slug": "mutton-biryani"
+  },
+  {
+    "dish": "Prawn Bhuna",
+    "file": "গলদা চিংড়ি ভুনা.jpg",
+    "slug": "prawn-bhuna"
+  },
+  {
+    "dish": "Chitoi Pitha",
+    "file": "চিতই পিঠা- Chitoi cake made from rice flower.jpg",
+    "slug": "chitoi-pitha"
+  },
+  {
+    "dish": "Dudh Kuli Pitha",
+    "file": "দুধ কুলি পিঠা.jpg",
+    "slug": "dudh-kuli-pitha"
+  },
+  {
+    "dish": "Bhuna Khichuri",
+    "file": "প্রেসার কুকারে ভুনা খিচুড়ি.jpg",
+    "slug": "bhuna-khichuri"
+  },
+  {
+    "dish": "Fuchka",
+    "file": "ফুচকা.jpg",
+    "slug": "fuchka"
+  },
+  {
+    "dish": "Morog Polao",
+    "file": "মুরগ পোলাও.jpg",
+    "slug": "morog-polao"
+  },
+  {
+    "dish": "Ilish Bhaja",
+    "file": "Ilish Bhaja (Fried Hilsha).jpg",
+    "slug": "ilish-bhaja"
+  },
+  {
+    "dish": "Jhalmuri",
+    "file": "Bangladeshi Jhalmuri 20220331.jpg",
+    "slug": "jhalmuri"
+  },
+  {
+    "dish": "Chotpoti",
+    "file": "Chotpoti.jpg",
+    "slug": "chotpoti"
+  },
+  {
+    "dish": "Mishti Doi",
+    "file": "Mishti doi.jpg",
+    "slug": "mishti-doi"
+  },
+  {
+    "dish": "Beguni",
+    "file": "Beguni.jpg",
+    "slug": "beguni"
+  }
+]
